@@ -2,4 +2,10 @@ Skrypt liczący średnią z semestru oraz roku na podstawie polskiej *"karty prz
 
 Skrypt stworzony na potrzeby Politechniki Wrocławskiej jeśli działa na innych uczelniach będę wdzięczny za informacje. 
 
+# Wywołanie
+
+```
+python3 usos-mean.py -f plik.pdf
+```
+
 Nie odpowiadam ze ewentualne błędy wynikające z działania skryptu.
